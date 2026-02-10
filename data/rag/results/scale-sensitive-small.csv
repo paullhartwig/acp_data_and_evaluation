@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+scale-sensitive,1,spring-boot-minimal,spring-boot-api.yaml,True,3,141,1,6,3244,275
+scale-sensitive,2,spring-boot-minimal,spring-boot-api.yaml,True,3,124,1,6,3244,285
+scale-sensitive,3,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,5,136,2,7,3909,365
+scale-sensitive,4,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,3,134,1,6,3246,265
+scale-sensitive,5,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,3,152,1,6,3247,272
+scale-sensitive,6,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,3,143,1,5,3246,268
+scale-sensitive,7,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,5,139,2,8,3925,372
+scale-sensitive,8,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,3,136,1,6,3245,303
+scale-sensitive,9,spring-boot-minimal,spring-boot-api.yaml,True,3,124,1,6,3235,274
+scale-sensitive,10,spring-boot-api-lite.yaml,spring-boot-api.yaml,True,3,124,1,8,3237,275

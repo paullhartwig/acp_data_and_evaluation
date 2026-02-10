@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+no-fit,1,none_of_the_above,none_of_the_above,True,1,342,0,-1,2538,198
+no-fit,2,none_of_the_above,none_of_the_above,True,1,342,0,-1,2538,209
+no-fit,3,next-ssg.yaml,none_of_the_above,False,1,342,0,-1,2520,205
+no-fit,4,none_of_the_above,none_of_the_above,True,1,342,0,-1,2534,201
+no-fit,5,none_of_the_above,none_of_the_above,True,1,342,0,-1,2539,221
+no-fit,6,none_of_the_above,none_of_the_above,True,1,342,0,-1,2528,227
+no-fit,7,none_of_the_above,none_of_the_above,True,1,342,0,-1,2525,237
+no-fit,8,none_of_the_above,none_of_the_above,True,1,342,0,-1,2527,208
+no-fit,9,none_of_the_above,none_of_the_above,True,1,342,0,-1,2530,220
+no-fit,10,none_of_the_above,none_of_the_above,True,1,342,0,-1,2523,208

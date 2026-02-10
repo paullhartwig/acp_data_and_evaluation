@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+clear-winner,1,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,138,1,1,3051,255
+clear-winner,2,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,133,1,1,3042,235
+clear-winner,3,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,136,1,1,3046,252
+clear-winner,4,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,138,1,1,3049,260
+clear-winner,5,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,127,1,1,3045,268
+clear-winner,6,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,119,1,1,3036,244
+clear-winner,7,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,7,177,3,1,4382,421
+clear-winner,8,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,132,1,1,3044,253
+clear-winner,9,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,139,1,1,3046,242
+clear-winner,10,rust-cloudflare-worker.yaml,rust-cloudflare-worker.yaml,True,3,140,1,1,3044,286

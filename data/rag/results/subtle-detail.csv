@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+subtle-detail,1,node-postgres-backend.yaml,node-postgres-backend,True,5,209,2,-1,3864,337
+subtle-detail,2,node-postgres-backend.yaml,node-postgres-backend,True,5,209,2,-1,3884,351
+subtle-detail,3,node-cron-postgres,node-postgres-backend,False,7,215,3,-1,4585,495
+subtle-detail,4,node-postgres-backend.yaml,node-postgres-backend,True,5,196,2,-1,3868,357
+subtle-detail,5,node-postgres-backend.yaml,node-postgres-backend,True,5,196,2,-1,3883,396
+subtle-detail,6,node-postgres-backend.yaml,node-postgres-backend,True,5,196,2,-1,3890,383
+subtle-detail,7,node-cron-postgres.yaml,node-postgres-backend,False,5,215,2,-1,3880,354
+subtle-detail,8,node-cron-postgres,node-postgres-backend,False,5,215,2,-1,3863,373
+subtle-detail,9,node-postgres-backend.yaml,node-postgres-backend,True,5,182,2,-1,3876,381
+subtle-detail,10,node-cron-postgres.yaml,node-postgres-backend,False,5,197,2,-1,3861,346

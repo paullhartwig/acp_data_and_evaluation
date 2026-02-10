@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+scale-sensitive,1,spring-boot-kafka-ingest.yaml,spring-boot-postgres.yaml,True,7,197,3,-1,4739,523
+scale-sensitive,2,spring-boot-kafka-ingest,spring-boot-postgres.yaml,True,3,178,1,-1,3280,324
+scale-sensitive,3,spring-boot-mqtt-ingest.yaml,spring-boot-postgres.yaml,True,3,207,1,-1,3273,297
+scale-sensitive,4,spring-boot-mqtt-ingest.yaml,spring-boot-postgres.yaml,True,5,209,2,-1,3961,367
+scale-sensitive,5,spring-boot-kafka-ingest,spring-boot-postgres.yaml,True,3,186,1,-1,3298,341
+scale-sensitive,6,spring-boot-kafka-ingest,spring-boot-postgres.yaml,True,3,178,1,-1,3288,333
+scale-sensitive,7,spring-boot-mqtt-ingest.yaml,spring-boot-postgres.yaml,True,3,218,1,-1,3272,276
+scale-sensitive,8,spring-boot-kafka-ingest.yaml,spring-boot-postgres.yaml,True,5,210,2,-1,3955,385
+scale-sensitive,9,spring-boot-kafka-ingest,spring-boot-postgres.yaml,True,5,184,2,-1,4000,446
+scale-sensitive,10,spring-boot-postgres-workers.yaml,spring-boot-postgres.yaml,True,3,191,1,-1,3280,293

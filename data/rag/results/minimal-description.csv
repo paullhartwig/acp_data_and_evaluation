@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+minimal-description,1,react-spa-email-capture.yaml,create-react-app,True,7,136,3,-1,4484,436
+minimal-description,2,react-spa-email-capture.yaml,create-react-app,True,9,123,4,-1,5159,509
+minimal-description,3,react-spa-email-capture.yaml,create-react-app,True,7,125,3,-1,4444,404
+minimal-description,4,react-spa-email-capture,create-react-app,True,7,117,3,-1,4468,417
+minimal-description,5,landing-page-lite.yaml,create-react-app,True,7,140,3,-1,4494,454
+minimal-description,6,landing-page-lite.yaml,create-react-app,True,7,100,3,-1,4438,440
+minimal-description,7,landing-page-lite.yaml,create-react-app,True,7,123,3,-1,4450,411
+minimal-description,8,react-spa-email-capture.yaml,create-react-app,True,7,110,3,-1,4449,443
+minimal-description,9,react-spa-email-capture.yaml,create-react-app,True,7,115,3,-1,4446,427
+minimal-description,10,react-spa-email-capture.yaml,create-react-app,True,7,99,3,-1,4433,422

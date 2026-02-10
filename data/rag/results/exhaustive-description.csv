@@ -1,0 +1,11 @@
+experiment,run,selected_template,correct_template,success,turns,user_chars,questions,correct_rank,input_tokens,output_tokens
+exhaustive-description,1,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,234,1,-1,3383,363
+exhaustive-description,2,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,239,1,-1,3366,310
+exhaustive-description,3,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,239,1,-1,3369,350
+exhaustive-description,4,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,235,1,-1,3362,337
+exhaustive-description,5,spring-boot-postgres-api.yaml,spring-boot-postgres,True,1,229,0,-1,2640,184
+exhaustive-description,6,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,236,1,-1,3360,363
+exhaustive-description,7,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,235,1,-1,3362,336
+exhaustive-description,8,spring-boot-postgres-api,spring-boot-postgres,True,3,235,1,-1,3373,348
+exhaustive-description,9,spring-boot-postgres-api.yaml,spring-boot-postgres,True,5,247,2,-1,4065,417
+exhaustive-description,10,spring-boot-postgres-api.yaml,spring-boot-postgres,True,3,232,1,-1,3344,327
